@@ -1,3 +1,7 @@
+This is an example Stripe integration with Create T3 App.
+
+Here is a [blog post](https://blog.nickramkissoon.com/posts/integrate-stripe-t3) walking through how this example app is implemented.
+
 # Create T3 App
 
 This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
